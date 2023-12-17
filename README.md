@@ -1,0 +1,1 @@
+# -Calculadora-Partidas-Ranqueadas
