@@ -1,3 +1,5 @@
+let nome = "Pedro"
+
 // Função que calcula o saldo de rankeadas e o nível do jogador
 function calculaRankeadas(vitorias, derrotas) {
     // Calcula o saldo de rankeadas
@@ -29,5 +31,5 @@ function calculaRankeadas(vitorias, derrotas) {
   let saldoVitorias = resultado[0]; // Saldo de rankeadas
   let nivel = resultado[1]; // Nível do jogador
   // Exibe a mensagem
-  console.log("O Herói tem de saldo de " + saldoVitorias + " está no nível de " + nivel);
+  console.log("O Herói tem de saldo de " + saldoVitorias + " está no nível de " + nivel + " com nome " + nome );
   
